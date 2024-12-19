@@ -1,8 +1,10 @@
-WThe Project Title: Weather Data Analysis Project
+The Project Title: Weather Data Analysis Project
 Objective: The project aims to perform a comprehensive analysis of a time-series weather dataset. The dataset provides per-hour information about various weather parameters recorded at a specific location.
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
 Key Features of the Dataset:
 Attributes:
----------------------------------------------------------------------------------------------------------------------------------------
 Temperature: Measures the atmospheric heat.
 Dew Point Temperature: Indicates the temperature at which air becomes saturated with moisture.
 Relative Humidity: Shows the percentage of moisture in the air relative to saturation.
@@ -11,7 +13,9 @@ Visibility: Describes how far one can clearly see.
 Pressure: Atmospheric pressure indicating weather conditions.
 Condition: General weather descriptions like "Clear" or "Rainy".
 Format: Stored in a CSV file.
+
 ---------------------------------------------------------------------------------------------------------------------------------------
+
 Steps in the Analysis:
 Data Loading:
 The Pandas library is used to load the dataset into a DataFrame for easier manipulation.
@@ -27,7 +31,9 @@ Data summary: Generate statistical summaries like mean, median, and standard dev
 Techniques & Tools:
 Pandas for data manipulation and analysis.
 (Placeholder for potential extensions like visualizations with Matplotlib or Seaborn).
+
 ---------------------------------------------------------------------------------------------------------------------------------------
+
 Potential Outcomes:
 Gain insights into weather patterns for informed decision-making.
 Build predictive models using historical weather data (optional extensions).
